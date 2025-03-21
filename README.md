@@ -1,2 +1,2 @@
 # soi_sanctions
-Sanctioned accounts in Sights of Iron
+Contains the sanctioned accounts and punishment methods in Sights of Iron
