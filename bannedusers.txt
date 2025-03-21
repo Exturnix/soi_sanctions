@@ -1,20 +1,20 @@
 [USER: "Spookyz/Trumpy/whatever the fuck this cornballs username is"]
-[PUNISHMENT: PERMANENT BAN]
+[STATUS: PERMANENT BAN]
 [REASON: Not respectful, racist, sexist, tried harming the development of the game, immature, attempting to use staff members for money, and breaking almost every single rule]
 
 
 [USER: "DunDunPavlov"]
-[PUNISHMENT: PERMANENT BAN]
+[STATUS: PERMANENT BAN]
 [REASON: Not respectful, racist, sexist, fascist, harming a developer's projects, spreading false info about a developer]
 
 
 [USER: "cafii__"]
-[PUNISHMENT: PERMANENT BAN]
+[STATUS: PERMANENT BAN]
 [REASON: 127 counts of being a cornball, threatening to dox a developer, threatening to ddos a developer, being a cybercriminal, being a child predator, not following their local laws (being a criminal)]
 
 
 [USER: "Weston7843"]
-[PUNISHMENT: PERMANENT BAN]
+[STATUS: PERMANENT BAN]
 [REASON: 468 counts of being a cornball, threatening to dox a developer, being a cybercriminal, threatening to rob the elderly????, not following their local laws (being a criminal)]
 
 
