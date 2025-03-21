@@ -10,11 +10,11 @@
 
 [USER: "cafii__"]
 [STATUS: PERMANENT BAN]
-[REASON: 127 counts of being a cornball, threatening to dox a developer, threatening to ddos a developer, being a cybercriminal, being a child predator, not following their local laws (being a criminal)]
+[REASON: 127 counts of being a cornball, threatening to dox a developer, threatening to ddos a developer, being a cybercriminal, being a child predator, being a skid (script kiddie), not following their local laws (being a criminal)]
 
 
 [USER: "Weston7843"]
 [STATUS: PERMANENT BAN]
-[REASON: 468 counts of being a cornball, threatening to dox a developer, being a cybercriminal, threatening to rob the elderly????, not following their local laws (being a criminal)]
+[REASON: 468 counts of being a cornball, threatening to dox a developer, being a cybercriminal, threatening to rob the elderly????, being a skid (script kiddie), not following their local laws (being a criminal)]
 
 
