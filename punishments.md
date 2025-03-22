@@ -1,4 +1,4 @@
-# SANCTION RELATED PUNSIHMENTS:
+# SANCTION RELATED PUNISHMENTS:
 
 
 **Permanent Ban** - Banned forever without the chance of appeal
